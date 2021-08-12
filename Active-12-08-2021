@@ -169,10 +169,12 @@ support.ubisoft.com##.alerts__item--show.news-banner-blue.alerts__item--warning.
 !twitch.tv##div.iJZwey.sc-AxjAm:nth-of-type(5)
 
 ! FOLLOWING PAGE ------------------------------------------------------------------------------------------------------------------------------------------
-!LIVE image AND viewer numbers 12-08-2021
-www.twitch.tv##.bRNxUb.Layout-sc-nxg1ff-0 
+!LIVE image 12-08-2021 hnnBG/dNNaBC blocks vid player - brnxub blocks unfollow button/chat
+www.twitch.tv##.tmSll.Layout-sc-nxg1ff-0 
+!LIVE image
+www.twitch.tv##.tw-channel-status-text-indicator.YoxeW.ScChannelStatusTextIndicator-sc-1f5ghgf-0 
 ! tags 12-08-2021
-www.twitch.tv##.bIPxCE.Layout-sc-nxg1ff-0 
+www.twitch.tv##.tw-tag.hiSYRQ.ScTag-sc-xzp4i-0
 ! side-nav
 www.twitch.tv###sideNav
 ! following page padding change style so it goes to the edge on following page example.com##.someClass:style(padding-left: 266px;)
@@ -188,11 +190,11 @@ www.twitch.tv##.tw-title.ipNmNI.ScTitleText-sc-1gsen4-0.CoreText-sc-cpl358-0
 !www.twitch.tv##.ScWrapper-uo2e2v-0 > .eiQqOY.ScTransformWrapper-uo2e2v-1 > .tw-link.FXIKh.ScCoreLink-udwpw5-0 > .jpEGpg.sc-AxjAm > .hBZJQK.sc-AxjAm > .tw-aspect.dNNaBC.ScAspectRatio-sc-1sw3lwy-1
 !style to better fit viewer numbers
 !top margin to lower numbers
-www.twitch.tv##.khuUmB.sc-AxiKw:style(margin-top:0rem !important;) 
+! www.twitch.tv##.khuUmB.sc-AxiKw:style(margin-top:0rem !important;) 
 !number 0 margin
-www.twitch.tv##.jkNSIJ.sc-AxiKw:style(margin-bottom:0rem !important;) 
+! www.twitch.tv##.jkNSIJ.sc-AxiKw:style(margin-bottom:0rem !important;) 
 !each stream margin
-www.twitch.tv##.iakVrY.sc-AxiKw:style(margin-bottom:2.5rem !important;)  
+! www.twitch.tv##.iakVrY.sc-AxiKw:style(margin-bottom:2.5rem !important;)  
 
 ! IN STREAM ------------------------------------------------------------------------------------------------------------------------------------------
 !leaderboard (made by ublock)
@@ -207,10 +209,8 @@ open.spotify.com##.GenericModal--afterOpen.GenericModal--animated.GenericModal >
 open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
 
 ! 2021-07-27 https://www.twitch.tv
-||static-cdn.jtvnw.net/previews-ttv/*$image
-||static-cdn.jtvnw.net/previews-ttv/*$image
-||static-cdn.jtvnw.net/previews-ttv/*$image
-||static-cdn.jtvnw.net/previews-ttv/*$image
-||static-cdn.jtvnw.net/previews-ttv/live_user_*-320x180.jpg$image
-www.twitch.tv##.fgvMWD.sc-AxiKw
+! ||static-cdn.jtvnw.net/previews-ttv/*$image
+! ||static-cdn.jtvnw.net/previews-ttv/live_user_*-320x180.jpg$image
+! www.twitch.tv##.fgvMWD.sc-AxiKw
+
 
